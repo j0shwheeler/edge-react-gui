@@ -3875,10 +3875,9 @@ edge-exchange-plugins@^0.11.6:
     iso4217 "^0.2.0"
     utf8 "^3.0.0"
 
-edge-login-ui-rn@^0.6.15:
+"edge-login-ui-rn@https://developer.airbitz.co/download/edge-login-ui-rn-0.6.15.tgz":
   version "0.6.15"
-  resolved "https://registry.yarnpkg.com/edge-login-ui-rn/-/edge-login-ui-rn-0.6.15.tgz#e71abe67cc56ce2bba687602f7a217ae71425ac8"
-  integrity sha512-DaSe8zvDUlSu7Y5eGp0zKycGjq3RkzkDPXg0pC6zfytUroLtPRLgnJoeA64WTGABe6+VJy0KuQVWt/rgo9NNgw==
+  resolved "https://developer.airbitz.co/download/edge-login-ui-rn-0.6.15.tgz#a70788dc40e54c1afdbb1297d6153ee531e71d16"
   dependencies:
     cleaners "^0.3.1"
     material-ui "^0.20.0"
